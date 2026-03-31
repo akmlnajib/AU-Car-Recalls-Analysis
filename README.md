@@ -22,7 +22,7 @@ Project ini melakukan proses ETL dan visualisasi data recall kendaraan menggunak
 
 ## 📊 Dashboard
 🔗 Tableau Public:
-https://public.tableau.com/app/profile/akmal.najib/viz/CarRecallAnalysisDashboard/AUCarRecalls#1
+https://public.tableau.com/views/CarRecallAnalysisDashboard/AUCarRecalls?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 📁 Struktur Project
 - notebook: proses ETL
